@@ -44,6 +44,18 @@ It includes:
 - Customers not using digital banking had a churn rate of 23.6%
 - Digital banking users had a churn rate of 16.2%
 
+
+  ## Visualisations
+
+### Customer Activity & Churn
+![Churn by Activity](charts/churn_by_activity.png)
+
+### Product Usage & Churn
+![Churn by Products](charts/churn_by_products.png)
+
+### Average Account Balance by City
+![Average Balance by City](charts/average_balance_by_city.png)
+
 ## Business Interpretation
 
 The analysis suggests that customer engagement may be linked with retention.
